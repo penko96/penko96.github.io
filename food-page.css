@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+header {
+    background: url("images/header.jpg ");
+    height: 200px;
+}
+
+header h1 {
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    padding: 80px;
+    font-size: 45px;
+}
+
+main {
+    padding: 20px 170px 0 170px;
+}
+
+div.content {
+    padding-right: 3%;
+    width: 60%;
+    float: left;
+}
+
+div.content img {
+    width: 100%;
+}
+
+h1 {
+    padding-bottom: 20px;
+}
+
+.date {
+    padding-bottom: 5px;
+}
+
+article p {
+    margin-top: 1%;
+    width: 100%;
+    text-align: justify;
+}
+
+button {
+    border: 1.2px solid #ff48ad;
+    color: #ff48ad;
+    background: none;
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+    margin: 15px 0 40px 0;
+}
+
+button:hover {
+    cursor: pointer;
+    color: white;
+    background-color: #ff48ad;
+}
+
+aside {
+    float: right;
+    width: 400px;
+}
+
+aside img {
+    margin-top: 29px;
+    width: 100%;
+}
+
+aside p {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    width: 100%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
